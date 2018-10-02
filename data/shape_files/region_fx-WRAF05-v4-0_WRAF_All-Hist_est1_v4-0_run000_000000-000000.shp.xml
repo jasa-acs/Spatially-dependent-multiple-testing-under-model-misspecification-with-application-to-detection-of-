@@ -1,0 +1,99 @@
+<metadata xml:lang="en">
+ <idinfo>
+  <citation>
+   <citeinfo>
+    <onlink Sync="TRUE"/>
+    <origin>Daithi Stone, Lawrence Berkeley National Laboratory, Berkeley, CA, U.S.A.</origin>
+    <pubdate>20170125</pubdate>
+    <title Sync="TRUE">Weather Risk Attribution Forecast version 4 regions (0.5Mm^2 class) (v4.0)</title>
+    <ftname Sync="TRUE">region_fx-WRAF05-v4-0_WRAF05_All-Hist_est1_v4-0_run000_000000-000000</ftname>
+    <geoform Sync="TRUE">vector digital data</geoform>
+   </citeinfo>
+  </citation>
+  <descript>
+   <langdata Sync="TRUE">el</langdata>
+   <abstract>See Stone, D. A.  "A hierarchical collection of political/economic regions for analysis of climate extremes".  In preparation.</abstract>
+   <purpose>Political/economic regions of approximately 0.5Mm^2 size for use in analysis of weather and climate extremes.</purpose>
+  </descript>
+  <status>
+   <progress>Published v4.0</progress>
+  </status>
+  <accconst>These data are available according to the Creative Commons License: http://creativecommons.org/licenses/by-nc-sa/2.0/ except as restricted by the licenses of source data.
+    NaturalEarth (http://www.naturalearthdata.com):  You may use the maps in any manner, including modifying the content and design, electronic dissemination, and offset printing. The primary authors, Tom Patterson and Nathaniel Vaughn Kelso, and all other contributors renounce all financial claim to the maps and invites you to use them for personal, educational, and commercial purposes.
+    GADM (http://www.gadm.org):  These data were extracted from the GADM database (www.gadm.org), version 2.8, November 2015. They can be used for non-commercial purposes only.  It is not allowed to redistribute these data, or use them for commercial purposes, without prior consent. See the website for more information.
+  </accconst>
+  <useconst>
+    These data are available according to the Creative Commons License: http://creativecommons.org/licenses/by-nc-sa/2.0/ except as restricted by the licenses of source data.
+    NaturalEarth (http://www.naturalearthdata.com):  You may use the maps in any manner, including modifying the content and design, electronic dissemination, and offset printing. The primary authors, Tom Patterson and Nathaniel Vaughn Kelso, and all other contributors renounce all financial claim to the maps and invites you to use them for personal, educational, and commercial purposes.
+    GADM (http://www.gadm.org):  These data were extracted from the GADM database (www.gadm.org), version 2.8, November 2015. They can be used for non-commercial purposes only.  It is not allowed to redistribute these data, or use them for commercial purposes, without prior consent. See the website for more information.
+  </useconst>
+  <natvform Sync="TRUE">NetCDF</natvform>
+ </idinfo>
+ <distInfo xmlns="">
+  <distFormat xmlns="">
+   <formatName>Shapefile</formatName>
+   <formatVer>version 4.0</formatVer>
+  </distFormat>
+ </distInfo>
+ <dataIdInfo>
+  <idCitation xmlns="">
+   <resTitle Sync="FALSE">Weather Risk Attribution Forecast version 4 regions (0.5Mm^2 class) (v4.0)</resTitle>
+   <date>
+    <createDate>2017-01-25T22:00:00</createDate>
+    <pubDate>2017-01-25T22:00:00</pubDate>
+   </date>
+   <resEd>version 4.0</resEd>
+   <citRespParty xmlns="">
+    <rpIndName>Daithi Stone</rpIndName>
+    <rpOrgName>Lawrence Berkeley National Laboratory, Berkeley, CA, U.S.A.</rpOrgName>
+    <rpCntInfo xmlns="">
+     <cntAddress addressType="">
+      <eMailAdd>dstone@lbl.gov</eMailAdd>
+     </cntAddress>
+    </rpCntInfo>
+    <displayName>Daithi Stone</displayName>
+   </citRespParty>
+  </idCitation>
+  <idPurp>
+    This dataset defines political/economic regions of approximately 0.5Mm^2 size for use in analysis of climate extremes.
+  </idPurp>
+  <idCredit>Stone, D. A.  "A hierarchical collection of political/economic regions for analysis of climate extremes".  In preparation.</idCredit>
+  <resConst>
+   <Consts xmlns="">
+    <useLimit>These data are available according to the Creative Commons License: http://creativecommons.org/licenses/by-nc-sa/2.0/ except as restricted by the licenses of source data.
+      NaturalEarth (http://www.naturalearthdata.com):  You may use the maps in any manner, including modifying the content and design, electronic dissemination, and offset printing. The primary authors, Tom Patterson and Nathaniel Vaughn Kelso, and all other contributors renounce all financial claim to the maps and invites you to use them for personal, educational, and commercial purposes.
+      GADM (http://www.gadm.org):  These data were extracted from the GADM database (www.gadm.org), version 2.8, November 2015. They can be used for non-commercial purposes only.  It is not allowed to redistribute these data, or use them for commercial purposes, without prior consent. See the website for more information.
+    </useLimit>
+   </Consts>
+  </resConst>
+  <idPoC xmlns="">
+   <rpIndName>Daithi Stone</rpIndName>
+   <rpOrgName>Lawrence Berkeley National Laboratory, Berkeley, CA, U.S.A.</rpOrgName>
+   <rpCntInfo xmlns="">
+    <cntAddress addressType="">
+     <eMailAdd>dstone@lbl.gov</eMailAdd>
+    </cntAddress>
+   </rpCntInfo>
+   <displayName>Daithi Stone</displayName>
+  </idPoC>
+ </dataIdInfo>
+ <metainfo>
+  <langmeta Sync="TRUE">en</langmeta>
+  <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+  <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+ </metainfo>
+ <distinfo>
+  <resdesc Sync="TRUE">Downloadable Data</resdesc>
+ </distinfo>
+ <spref>
+  <horizsys>
+   <cordsysn>
+    <geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+   </cordsysn>
+   <geograph>
+    <geogunit Sync="TRUE">Decimal degrees</geogunit>
+   </geograph>
+  </horizsys>
+ </spref>
+ <dataSetURI>http://www.csag.uct.ac.za/~daithi/forecast/</dataSetURI>
+</metadata>
